@@ -17,12 +17,7 @@
 
 
 $AllTypes = @("A - Admin","E - Elev","G - Komvux",
-"L - Lärare",
-"P(ABI) - Publik Alafors Bibliotek",
-"P(BI) - Publik Nödinge Bibliotek",
-"P(SBI) - Publik Skepplanda Bibliotek",
-"P(SUBI) - Publik Surte bibliotek", 
-"S - Surf","V - Virituell")
+"L - LÃ¤rare","V - Virituell")
 
 $PublikDesktopSearchChar = "DT"
 
